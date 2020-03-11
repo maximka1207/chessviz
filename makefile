@@ -1,3 +1,3 @@
-all: 
-        g++ -Wall -o main main.c
-        ./main
+all:
+	g++ -Wall -o main main.с
+	./main
